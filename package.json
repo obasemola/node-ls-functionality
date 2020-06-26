@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/obasemola/node-ls-functionality/issues"
   },
-  "homepage": "https://github.com/obasemola/node-ls-functionality#readme"
+  "homepage": "https://github.com/obasemola/node-ls-functionality#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
